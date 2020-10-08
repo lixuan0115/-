@@ -10,10 +10,9 @@ java实验2
 尝试把本次实验的多个类放置在不同的包中，体会修饰符private的用法。
 
 ## 实验过程
-创建test主类 cpu harddisk pc类并赋值
+创一个包 四个类分别是test主类和cpu harddisk pc三个类 用定义的方法将其各种信息获取出来 分别为Speed Amount type capacity 将这些show()
 ## 实验方法
-在test创建cpu disk pc对象并设置数值 cpu类返回speed值，setspeed(int m)将m赋值给speed；harddisk类返回amount值；pc类setcpu（cpu c）赋值给cpu，setharddisk（harddisk h）赋值给hd。
-show（）显示cpu和硬盘性能
+创一个包 四个类 test为主类 用定义的获取方法将其show出来
 
 ## 核心代码
 package package1;
@@ -39,6 +38,6 @@ public class Test {
  
 }
 ## 实验结果
-![](java实验结果.png)
+![](121602167916_.pic_hd.png)
 ## 实验感想
-熟悉了类的创建及基本数据类型使用，学会了类的组合与复用
+熟悉了类的创建及基本数据类型使用，并且查看了自己计算机的信息将其用java代码的形式展示出来，有了很好的对java应用体验感。
